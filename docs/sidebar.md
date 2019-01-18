@@ -5,4 +5,4 @@
 - [Panel Settings - Mod](Panel-Settings-Mod)
 - [Panel Settings - Other](Panel-Settings-Other)
 - [Other Info](Other-Info)
-- [Changelog](hangelogz)
+- [Changelog](changelogz)

@@ -1,4 +1,11 @@
 # Change Log
+## 2.0.9
+*2019-01-19*
+
+- Add Link/Unlink to dbvote command
+- Fix Direct message response changed
+- Fix Transcripts won't generate without a parent category
+
 ## 2.0.8
 *2019-01-18*
 

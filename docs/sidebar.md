@@ -1,5 +1,6 @@
 - [Quick Start](quick-start)
 - [General Settings](General-Settings)
+- [Commands](commands)
 - [Panel Settings - Panel](Panel-Settings-Panel)
 - [Panel Settings - Ticket](Panel-Settings-Ticket)
 - [Panel Settings - Mod](Panel-Settings-Mod)

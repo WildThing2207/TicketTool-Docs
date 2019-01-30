@@ -20,7 +20,7 @@ Required=`[]`
 
 | Command | Usage | Aliases | Desc |
 | :---------- | :-----------: | :-----------:| :------------------------------ |
-| Transcript | $transcript | none | Create a transcript of the last 100 messages in the channel |
+| Transcript | $transcript <limit> | none | Create a transcript of the last 100/limit messages in the channel |
 
 ##  SetTranscript
 

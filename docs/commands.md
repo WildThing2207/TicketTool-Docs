@@ -36,8 +36,6 @@ Required=`[]`
 
 ##  Help
 
-##  Ping
-
 | Command | Usage | Aliases | Desc |
 | :---------- | :-----------: | :-----------:| :------------------------------ |
 | Help | $help {command} | none | Help command |
@@ -53,3 +51,9 @@ Required=`[]`
 | Command | Usage | Aliases | Desc |
 | :---------- | :-----------: | :-----------:| :------------------------------ |
 | Invite | $invite | none | Link to invite Ticket Tool |
+
+##  Manageticket
+
+| Command | Usage | Aliases | Desc |
+| :---------- | :-----------: | :-----------:| :------------------------------ |
+| manageticket | $manageticket [add/remove] [@user/id] <#channel/id> | mtt | Add another user to a ticket |

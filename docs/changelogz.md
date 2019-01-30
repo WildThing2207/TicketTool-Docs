@@ -2,8 +2,8 @@
 ## 2.1.0
 *2019-01-30*
 
-- Add new command $manageticket [add/remove] [@user/id] <#channel/id>
-- Update $transcript to include <limit> option
+- Add new command $manageticket [add/remove] [@user/id] \<#channel/id\>
+- Update $transcript to include \<limit\> option
 - Fixed a number of bugs.
 
 ## 2.0.9

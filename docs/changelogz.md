@@ -4,6 +4,7 @@
 
 - Add new command $manageticket [add/remove] [@user/id] \<#channel/id\>
 - Update $transcript to include [limit] option
+- Fixed a bug causing new servers to be unable to create panels for this first time.
 - Fixed a number of bugs.
 
 ## 2.0.9

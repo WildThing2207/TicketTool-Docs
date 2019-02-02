@@ -1,4 +1,9 @@
 # Change Log
+## 2.1.1
+*2019-02-02*
+
+- Update Free users now have a 35 character limit on custom messages.
+
 ## 2.1.0
 *2019-01-30*
 

@@ -3,6 +3,11 @@
 *2019-02-02*
 
 - Update Free users now have a 35 character limit on custom messages.
+- Update "Auto Pin Message" is now set per panel under >Other (This is has been reset to defualt "Enabled")
+- Update "Ticket Limit" is now set per panel under >Other (This is has been reset to defualt "3")
+- Removed  "Auto Pin Message" from General
+- Removed  "Ticket Limit" from General
+- Added new option under Other "Support Roles" allows you to assign different roles to different panels (same thing can be achived by changing category permissions)
 
 ## 2.1.0
 *2019-01-30*

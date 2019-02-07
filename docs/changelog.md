@@ -9,7 +9,7 @@
 - Update $help to use a new format.
 - Added $setup for setup and FAQ information.
 - Fixed a bug with Using , or . in a ticket name causes them to not be created correct.
-- Fixed a bug when having a panel name with symbols would cause itself and other menus to fail.
+- Fixed a bug when having a panel name with symbols would cause itself and other menus to fail on the dashboard.
 
 ## 2.1.1
 *2019-02-02*

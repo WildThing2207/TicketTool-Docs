@@ -4,10 +4,12 @@
 
 - Update Dashboard icon inputs to have basic url verification.
 - Update Dashboard color inputs to have a color picker & verification.
+- Update Dashboard panel settings to use correct nav menu (fixing a bug)
 - Update Free message limit from 35 to 40.
 - Update $help to use a new format.
 - Added $setup for setup and FAQ information.
 - Fixed a bug with Using , or . in a ticket name causes them to not be created correct.
+- Fixed a bug when having a panel name with symbols would cause itself and other menus to fail.
 
 ## 2.1.1
 *2019-02-02*

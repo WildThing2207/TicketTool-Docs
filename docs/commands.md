@@ -2,11 +2,11 @@
 Optional=`{}`  
 Required=`[]`
 
-##  Ticket
+##  Panel
 
 | Command | Usage | Aliases | Desc |
 | :---------- | :-----------: | :-----------:| :------------------------------ |
-| Ticket | $ticket [ticket name] | tt | Open ticket panel |
+| Panel | $panel [panel name] | tt,ticket | Open ticket panel |
 
 ##  Dbvote
 
@@ -39,6 +39,12 @@ Required=`[]`
 | Command | Usage | Aliases | Desc |
 | :---------- | :-----------: | :-----------:| :------------------------------ |
 | Help | $help {command} | none | Help command |
+
+## Setup & FAQ
+
+| Command | Usage | Aliases | Desc |
+| :---------- | :-----------: | :-----------:| :------------------------------ |
+| Setup | $setup | faq | For setup information and FAQ |
 
 ##  Dashboard
 

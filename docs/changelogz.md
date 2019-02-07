@@ -1,4 +1,14 @@
 # Change Log
+## 2.1.2
+*2019-02-06*
+
+- Update Dashboard icon inputs to have basic url verification.
+- Update Dashboard color inputs to have a color picker & verification.
+- Update Free message limit from 35 to 40.
+- Update $help to use a new format.
+- Added $setup for setup and FAQ information.
+- Fixed a bug with Using , or . in a ticket name causes them to not be created correct.
+
 ## 2.1.1
 *2019-02-02*
 

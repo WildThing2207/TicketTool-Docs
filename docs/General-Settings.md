@@ -19,16 +19,6 @@ Channel used for receiving Transcripts
 
 Automatically save a transcript when the ticket is closed
 
-### Ticket Limit 
-
-Limit the amount of tickets that each user can have open per panel
-
-?> Use this to prevent ticket spam
-
-### Auto Pin Message
-
-Automatically pin ticket message (This is used to close tickets)
-
 ### Category Prefix 
 
 prefix of category created for each panel 

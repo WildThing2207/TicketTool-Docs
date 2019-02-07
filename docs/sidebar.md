@@ -1,5 +1,5 @@
  **General**
-- [Quick Start](quick-start)
+- [Setup & FAQ](quick-start)
 - [Commands](commands)
 - [Other Info](Other-Info)
 

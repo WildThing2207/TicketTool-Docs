@@ -15,7 +15,7 @@ Q: What do i set the panel name as?
 ឵ ឵឵  A: The panel name is used organize your tickets into different categories. (support,requests, etc..)  
 ឵ ឵឵
   
-### FAQ: Settings/Configs  
+### Settings/Configs  
 Q: How do i change my settings?  
 ឵ ឵឵  A: All your settings are managed using your Dashboard  
 Q: I don't see any panels on the dashboard  
@@ -24,7 +24,7 @@ Q: Do you have documentation?
 ឵ ឵឵  A: Our documentation is available here: Ticket Tool Docs  
 ឵ ឵឵
 
-### FAQ: Other  
+### Other  
 Q: What are transcripts?  
 ឵ ឵឵  A: A transcripts will save the chat history as a file in another channel to view later  
 Q: I still need help or have an issue who do i contact??  

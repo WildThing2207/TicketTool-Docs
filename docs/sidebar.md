@@ -13,4 +13,4 @@
 
 
  **Changelog**
-- [Changelog](changelogz)
+- [Changelog](changelog)

@@ -1,7 +1,7 @@
 # Quick Start
 
 ## Setup
-To get started using Ticket Tool you're going to need to create a panel using $panel [panel name]
+To get started using Ticket Tool you're going to need to create a panel using $panel [panel name]  
 ឵ ឵឵
 ## FAQ
 ### Ticket/Panels  
@@ -10,7 +10,7 @@ Q: How do a create a ticket?
 Q: What is a panel?  
 ឵ ឵឵  A: Panels are what we call the message used to create tickets  
 Q: How do i create a panel?  
-឵ ឵឵  A: Panels are created using $panel [panel name]
+឵ ឵឵  A: Panels are created using $panel [panel name]  
 Q: What do i set the panel name as?  
 ឵ ឵឵  A: The panel name is used organize your tickets into different categories. (support,requests, etc..)  
 ឵ ឵឵

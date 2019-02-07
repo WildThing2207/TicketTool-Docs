@@ -21,7 +21,7 @@ Q: How do i change my settings?
 Q: I don't see any panels on the dashboard  
 ឵ ឵឵  A: You need to create panels before it will show in the dashboard  
 Q: Do you have documentation?  
-឵ ឵឵  A: Our documentation is available here: Ticket Tool Docs  
+឵ ឵឵  A: Our documentation is available here: [Ticket Tool Docs](https://tickettool.xyz/docs)  
 ឵ ឵឵
 
 ### Other  

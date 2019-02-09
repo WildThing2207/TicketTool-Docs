@@ -1,7 +1,7 @@
 # Change Log
 ## 2.1.2
 *2019-02-09*
-- Update Panel name now correctly supports Uper-case 
+- Update Panel name now correctly supports Uppercase
 - Added new reaction command :tools: (🛠) - ( To Update your panel with the new configuration you can either recreate it using the same name or react to it with :Tools: (🛠) )
 - Fixed a random bug with new servers.
 

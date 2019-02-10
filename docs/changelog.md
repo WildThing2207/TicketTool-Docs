@@ -1,6 +1,9 @@
 # Change Log
 ## 2.1.2
-*2019-02-09*
+*2019-02-09
+- Added an option to create panels on the dashboard
+- Added an option to reset each panel individuality on the dashboard
+- Added an option to delete panels on the dashboard
 - Update Panel name now correctly supports Uppercase
 - Added new reaction command :tools: (🛠) - ( To Update your panel with the new configuration you can either recreate it using the same name or react to it with :Tools: (🛠) )
 - Fixed a random bug with new servers.

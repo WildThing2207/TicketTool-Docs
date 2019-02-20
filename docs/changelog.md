@@ -1,5 +1,12 @@
 # Change Log
-## 2.1.2
+## 2.1.4
+*2019-02-09
+- Added logging
+- Added an option to set the log channel on the dashboard
+- Added an option to set what should be logged on the dashboard
+- Added an when created a panel to override it's name using `$panel <panel name> display:<display name>`
+
+## 2.1.3
 *2019-02-09
 - Added an option to create panels on the dashboard
 - Added an option to reset each panel individuality on the dashboard

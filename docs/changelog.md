@@ -4,7 +4,7 @@
 - Added logging
 - Added an option to set the log channel on the dashboard
 - Added an option to set what should be logged on the dashboard
-- Added an when created a panel to override it's name using `$panel <panel name> display:<display name>`
+- Added an option when creating a panel to override it's name using `$panel <panel name> display:<display name>`
 
 ## 2.1.3
 *2019-02-09

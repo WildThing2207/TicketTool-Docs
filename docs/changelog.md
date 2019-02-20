@@ -1,6 +1,6 @@
 # Change Log
 ## 2.1.4
-*2019-02-09
+*2019-02-20
 - Added logging
 - Added an option to set the log channel on the dashboard
 - Added an option to set what should be logged on the dashboard

@@ -3,7 +3,7 @@
 
 ### Panel Message 
 
-Message to display on the panel created with `$itcket <name>`
+Message to display on the panel created with `$panel <name>`
 
 ### Panel Icon
 

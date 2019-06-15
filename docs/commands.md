@@ -38,4 +38,4 @@ All settings are configured using the [Dashboard](https://tickettool.xyz/dashboa
 | Ping | $ping | Checks Ticket Tool's response time |
 | PermLevel | $permlevel | Shows you your server permission level |
 
-?> When the Vote command is linked, 
+?> When the Vote command is linked, a users vote count will be transfered to the user linked to.

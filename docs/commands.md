@@ -2,12 +2,15 @@
 Optional=`{}`  
 Required=`[]`
 
-##  Panel
+### Settings
+All settings are configured using the [Dashboard](https://tickettool.xyz/dashboard).
+
+##  Tickets/Panel
 
 | Command | Usage | Aliases | Desc |
 | :---------- | :-----------: | :-----------:| :------------------------------ |
-| Panel | $panel [panel name] | tt,ticket | Open ticket panel |
-
+| Panel | $panel [panel name] | tt,ticket | Creates ticket panel or recalls panel created online. |
+| Clean | $clean {close/delete} {seconds} {panel name} | none | Closes or deletes all open tickets that haven't recieved a response in X seconds. (Specify "s, m, h, d" in time to use different unit of time.
 ##  Dbvote
 
 | Command | Usage | Aliases | Desc |

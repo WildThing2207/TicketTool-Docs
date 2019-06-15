@@ -31,4 +31,6 @@ Q: I am still having issues with Ticket Tool.  Where can I go to get further hel
 &nbsp;&nbsp;&nbsp;    A: You can contact our support team on our [Discord Support Server](https://discord.gg/tUM9Xcv)  
 
 
+
+
 Documentation written by: BattleEye#9668 and Pinecone#2655

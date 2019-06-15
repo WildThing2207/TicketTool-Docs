@@ -20,14 +20,14 @@ Tracker followed soon after Gideon and was the third member of Ticket Tool's Sup
 
 
 ##Support Team
-
 ###Tobi
-
+PlaceHolder Text
 
 ###-яσвєят-
-
+PlaceHolder Text
 
 ###Gaétan
-
+PlaceHolder Text
 
 ###Antoine
+PlaceHolder Text

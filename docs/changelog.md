@@ -1,4 +1,7 @@
 # Change Log
+
+?> The change log has been halted temporarily.  For changes to Ticket Tool, please see #announcements in the Discord Support Server.
+
 ## 2.1.4
 *2019-02-20
 - Added logging

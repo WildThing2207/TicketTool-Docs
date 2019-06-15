@@ -3,7 +3,7 @@
 ?> This document is currently a work in progress.
 
 ##BattleEye - Developer/Creator
-BattleEye singlehandedly developed Ticket Tool and its Dashboard.  He is constantly working on, developing, and adding new features to Ticket Tool.
+Josiah (a.k.a. BattleEye) singlehandedly developed Ticket Tool and its Dashboard.  He is constantly working on, developing, and adding new features to Ticket Tool.
 
 ##Admins
 ###Pinecone

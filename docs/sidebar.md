@@ -2,6 +2,7 @@
 - [Setup & FAQ](quick-start)
 - [Commands](commands)
 - [Other Info](Other-Info)
+- [Meet the Team](staff)
 
 
  **Settings** 

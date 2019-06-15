@@ -6,7 +6,7 @@ To get started using Ticket Tool you're going to need to create a panel using $p
 ## FAQ
 ### Ticket/Panels  
 Q: How do a create a ticket?  
-&nbsp;&nbsp;&nbsp;&nbsp;    A: You create a ticket by reacting to a previously created panel with :envelope_with_arrow:  
+&nbsp;&nbsp;&nbsp;    A: You create a ticket by reacting to a previously created panel with :envelope_with_arrow:  
 Q: What is a panel?  
 &nbsp;&nbsp;&nbsp;    A: Panels are what we call the message used to create tickets  
 Q: How do i create a panel?  

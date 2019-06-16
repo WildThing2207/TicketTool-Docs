@@ -26,8 +26,8 @@ I want Ticket Tool to be one of the most recognized bots in Discord ¿Why? - Bec
 Someday leave my countr.y ¿Why? - . . .
 And the last one, i want to be a great musician"
 
-### ¯\_(ツ)_/¯
-Robert (a.k.a ¯\_(ツ)_/¯) is currently the only person from the German Support Team for Ticket Tool. He was recruited by Gideon shortly after the transition from Ticket Tool v2 to v3. He was added to the Support Team to handle the ever increasing number of German support requests. However he has been using Ticket Tool as a support solution on his discord servers for quite some time now and is currently actively supporting the two German Ticket Tool partner servers.
+### ¯\\_(ツ)_/¯
+Robert (a.k.a ¯\\_(ツ)_/¯) is currently the only person from the German Support Team for Ticket Tool. He was recruited by Gideon shortly after the transition from Ticket Tool v2 to v3. He was added to the Support Team to handle the ever increasing number of German support requests. However he has been using Ticket Tool as a support solution on his discord servers for quite some time now and is currently actively supporting the two German Ticket Tool partner servers.
 
 ### Gaétan
 PlaceHolder Text

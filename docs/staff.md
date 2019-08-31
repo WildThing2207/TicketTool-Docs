@@ -7,9 +7,6 @@ Josiah (a.k.a. BattleEye) singlehandedly developed Ticket Tool and its Dashboard
 ### Pinecone
 Pinecone was the first member of the Ticket Tool Support Team and has always worked hard to provide fast, reliable support to everybody who creates a ticket.  He soon after became the first Admin of the Ticket Tool Support Server and now leads the Spanish Support Team and Co-Leads the support team as a whole as well as handling a large portion of modderation within the community.
 
-### Gideon
-Gideon is a very seniored member of the Ticket Tool support server.  He was the second Support Team member and third admin.  He handles a majority of support tickets in the server as well as most of the server's bots and modderation setups.  Without him, the Ticket Tool Support Server would not be as simple and streamlined as it is today.
-
 ### TrackerGaming
 Tracker followed soon after Gideon and was the third member of Ticket Tool's Support Team and second administration. He helps to manage Ticket Tool's Public Relations and Social Media presense.  Since he is also an admin on many other Discord servers, he was a perfect fit for the job.
 

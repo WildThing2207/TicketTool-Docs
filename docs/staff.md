@@ -17,6 +17,8 @@ Tracker followed soon after Gideon and was the third member of Ticket Tool's Sup
 Hey, my name is 🅻🅴🆇 (🅻🅴🆇#0505) and I am a german/english supporter and the newest admin of Ticket Tool.  I'm happy to support the German and English spoken tongues in this community, with all questions and issues which may come up.  If you check the Ticket Tool Discord, I can promise that you'll be surprised.
 
 ## Support Team
+### 🅻🅴🆇
+Hey, my name is 🅻🅴🆇 (🅻🅴🆇#0505) and I am a german/english supporter and the newest admin of Ticket Tool.  I'm happy to support the German and English spoken tongues in this community, with all questions and issues which may come up.  If you check the Ticket Tool Discord, I can promise that you'll be surprised.
 ### Tobi
 "Hello, i'm known as Tobi. I'm one of the most recent Support members, I keep promoting the bot in the spanish community, and also i manage the brazilian team. Since the day i joined the support server i've tried to help on everything i can. Aside from Ticket Tool, i make music and i'm the CEO of one of the most wanted Grand Theft Autos San Andreas multiplayer spanish servers of 2019. Here are some of my wishes:
 I want Ticket Tool to be one of the most recognized bots in Discord ¿Why? - Because it's a complete bot, easy to understand and constantly being developed by BattleEye. Also we try to do our best with fast reply when people ask for support.

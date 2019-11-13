@@ -4,8 +4,8 @@
   - [Premium](https://tickettool.xyz/premium)
    - [Why Premium](premium.md)
   - [Features](features.md)
-  - [Meet the Team](docs/staff.md)
-  - [Changelog](docs/changelog.md)
+  - [Meet the Team](staff.md)
+  - [Changelog](changelog.md)
 
 - Dashboard
 

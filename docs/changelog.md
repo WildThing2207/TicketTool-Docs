@@ -1,6 +1,46 @@
 # Change Log
+## v4
+*2019-10-27*
 
-?> The change log has been halted temporarily.  For changes to Ticket Tool, please see #announcements in the Discord Support Server.
+**Updated Features - Dashboard**
+ - Full Dashboard redesign
+ - Permissions have been updated with full control like Discord
+ - Logging and transcripts have been moved to per panel vs Global
+ - Message editors have been update with a full embed editor
+ - Automation has been improved and is now enabled
+ - Command style tickets / `$new` has been updated to work for each panel
+ - The free Ticket message limit has been raised from 40 to 70
+
+**Updated features - Bot**
+ - The basic features of the bot have all been updated
+ - Transcript has been redesigned to support all messages (embeds,images, etc.)
+ - Command style tickets / `$new` has been updated to work for each panel
+ - Command `$help` has been updated to include more helpful info (faq/setup)
+
+**New features - Dashboard**
+ - A reaction picker has been added for easy reaction selection
+ - Custom Commands/Tags have been added for quick responses to tickets
+ - New option for your support to claim tickets (Actions taken when claimed is configurable)
+ - Logs have been added to the dashboard
+ - The option to clone panels has been added
+ - Blacklist role added
+ - Added the variable `{reason}` to the `$new` command
+
+**New Features - Bot**
+ - Tags have been added to allow for quick responses to tickets (set using the dashboard)
+ - Commands for claimng added to work with the claim system
+
+**Removed/Replaced Features - Dashboard**
+ - Command $panel has been removed and replaced with a sending system using the Dashboard
+ - Command $mt/$manageticket has been removed and replaced $add and $remove
+**Removed/Replaced Features - Bot**
+ - The blacklist command has been removed and replaced with a blacklist role
+ - Categories are no longer created automatically (They can still be set under Category Options on the Dashboard)
+ - $panel has been removed and replaced with a sending system using the Dashboard
+ - Command $mt/$manageticket has been removed and replaced $add and $remove
+
+## 2.1.4 - v4
+?> The change log was halted for awhile.
 
 ## 2.1.4
 *2019-02-20

@@ -1,4 +1,9 @@
 # Change Log
+## v4.0.1
+*2019-11-04*
+ - Allowed roles and allowed channels is no longer a whitelist
+ - Allowed roles and allowed channels will now bypass the blacklisted roles
+
 ## v4
 *2019-10-27*
 
